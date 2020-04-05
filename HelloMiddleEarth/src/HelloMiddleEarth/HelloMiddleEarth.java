@@ -9,6 +9,7 @@ public class HelloMiddleEarth {
 			System.out.format("Hello ,%s!\n",names[i]);
 		}
 		//new comments added
+		// and another comments
 	}
 
 }
