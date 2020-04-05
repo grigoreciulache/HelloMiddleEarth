@@ -14,6 +14,7 @@ public class HelloMiddleEarth {
 		for(String name:names) {
 			System.out.format("Hello ,%s!\n",name);
 		}
+		
 	}
 
 }
