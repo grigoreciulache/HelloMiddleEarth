@@ -3,7 +3,7 @@ package HelloMiddleEarth;
 public class HelloMiddleEarth {
 
 	public static void main(String[] args) {
-		String names[] = {"Bilbo","Frodo","Aragons","Legolas","Gandalf"};
+		String names[] = {"Bilbo","Frodo","Aragons","Legolas","Gandalf","you","me"};
 		//print greetings
 		/*
 		for(int i=0; i<names.length; i++) {
